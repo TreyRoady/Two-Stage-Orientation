@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Tutorial_1_basic">
+</Property><Property Name="Solution File" Value="C:\temp\Tutorial 1 - Basic\Tutorial_1_basic.sln">
+</Property><Property Name="Date" Value="Friday, August 26, 2011">
+</Property><Property Name="Time" Value="14:05 PM">
+</Property><Property Name="Log Number" Value="4">
+</Property></Properties><Event ErrorLevel="0" Project="Tutorial_1_basic" Source="Tutorial_1_basic.vcproj" Description="Converting project file 'C:\temp\Tutorial 1 - Basic\Tutorial_1_basic.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Tutorial_1_basic" Source="Tutorial_1_basic.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="Tutorial_1_basic" Source="Tutorial_1_basic.vcproj" Description="MSB8012: $(TargetPath) ('C:\temp\Tutorial 1 - Basic\.\Debug\Tutorial_1_basic.exe') does not match the Linker's OutputFile property value '.\Debug\Tutorial_1_basic.exe' ('C:\temp\Tutorial 1 - Basic\Debug\Tutorial_1_basic.exe') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="Tutorial_1_basic" Source="Tutorial_1_basic.vcproj" Description="Done converting to new project file 'C:\temp\Tutorial 1 - Basic\Tutorial_1_basic.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Tutorial_1_basic" Source="Tutorial_1_basic.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Tutorial_1_basic.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Tutorial_1_basic.sln" Description="Converted">
+</Event></UpgradeLog>
